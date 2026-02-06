@@ -31,6 +31,6 @@
     "inferno-create-element": "^8.2.3",
     "markdown-it-prism": "^3.0.0",
     "prismjs": "^1.30.0",
-    "semver": "^7.7.2"
+    "semver": "^7.7.4"
   }
 }
